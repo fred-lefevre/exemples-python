@@ -10,5 +10,6 @@
 
 ## 👀 Les exemples
 
-- Encoder et décoder du JSON avec Python
+- Créer un premier serveur TCP
+- Encoder et décoder du JSON
 
