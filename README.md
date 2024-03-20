@@ -10,6 +10,7 @@
 
 ## 👀 Les exemples
 
+- Calculer le maximum de quatre nombres avec une fonction
 - Debugger les erreurs des boucles while
 - Créer un premier serveur TCP
 - Encoder et décoder du JSON
