@@ -11,7 +11,8 @@
 ## 👀 Les exemples
 
 - Calculer le maximum de quatre nombres avec une fonction
-- Debugger les erreurs des boucles while
 - Créer un premier serveur TCP
+- Créer un premier serveur UDP avec Python
+- Debugger les erreurs des boucles while
 - Encoder et décoder du JSON
 
