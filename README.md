@@ -6,7 +6,7 @@
 
 - Les explications associées sont fournies dans `YouTube`.
 
-- L'URL de la playlist des vidéos est : https://www.youtube.com/playlist?list=PLQsTrO2pHmL5r15EfE8tv75QGIgcmukyQ
+- L'URL de la playlist des vidéos est ▶ https://www.youtube.com/playlist?list=PLQsTrO2pHmL5r15EfE8tv75QGIgcmukyQ
 
 ## 👀 Les exemples
 
@@ -15,4 +15,7 @@
 - Créer un premier serveur UDP avec Python
 - Debugger les erreurs des boucles while
 - Encoder et décoder du JSON
+- Gérer les exceptions avec try except
 
+## 🐼 Site web associé
+- Initiation et perfectionnement en informatique ▶ https://www.kreatuto.info/
